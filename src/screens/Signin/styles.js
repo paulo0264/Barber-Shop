@@ -23,14 +23,15 @@ export const InputArea = styled.View`
 
 export const CustomButton = styled.TouchableOpacity`
     height: 60px;
-    background-color: #fff;
+    background-color: #0000CD;
     border-radius: 20px;
     justify-content: center;
     align-items: center;
 `;
 export const CustomButtonText = styled.Text`
     font-size: 18px;
-    color: #000;
+    color: #fff;
+    font-weight: bold;
 `;
 
 export const SignMessageButton = styled.TouchableOpacity`
